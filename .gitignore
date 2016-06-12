@@ -1,0 +1,6 @@
+# gitignore setting
+
+*.pyc
+.DS_Store
+data/
+result/
